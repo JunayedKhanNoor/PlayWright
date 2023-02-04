@@ -7,3 +7,8 @@ npm install -D jest
 
 ```
 
+### Generate code using CLI
+```
+npx playwright codegen Your_URL
+```
+
